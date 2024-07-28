@@ -1,0 +1,202 @@
+﻿PROPERTY,BLOK,unit,NAMA BLOK,NOMOR,cust,price,status,year,month
+1,a001,1,A,1,daisa,1.5,1,2023,Agustus
+1,a004,1,A,4,sarmauli,1.5,0,2023,Oktober
+1,a009,1,A,9,Katrim,1.5,1,2023,Maret
+1,a014,1,A,14,noname,1.5,1,2023,Februari
+1,a014,1,A,14,noname,1.5,0,2023,Januari
+1,a101,1,A1,1,noname,1.5,0,2023,Desember
+1,a101,1,A1,1,noname,1.5,1,2023,Desember
+1,a102,1,A1,2,noname,1.5,1,2023,Juni
+1,a103,1,A1,3,noname,1.5,1,2023,Desember
+1,a113,1,A1,13,noname,1.5,0,2023,Juni
+1,a201,1,A2,1,noname,1.5,0,2023,Januari
+1,a202,1,A2,2,noname,1.5,1,2023,Maret
+1,a202,1,A2,2,noname,1.5,0,2023,Mei
+1,a203,1,A2,3,noname,1.5,1,2023,Juli
+1,b010,1,B,10,baitul janah,1.5,1,2023,Agustus
+1,b014,1,B,14,no name,1.5,1,2023,Januari
+1,b028,1,B,28,griyacom,1.5,0,2023,Februari
+1,c028,1,C,28,griyacom,1.5,1,2023,November
+1,e001,1,E,1,griyacom,1.5,0,2023,Januari
+1,e002,1,E,2,griyacom,1.5,0,2023,Oktober
+1,e003,1,E,3,griyacom,1.5,1,2023,Agustus
+1,e004,1,E,4,griyacom,1.5,1,2023,September
+1,e005,1,E,5,griyacom,1.5,1,2023,Mei
+1,e006,1,E,6,griyacom,1.5,1,2023,Januari
+1,e007,1,E,7,griyacom,1.5,1,2023,Agustus
+1,e008,1,E,8,griyacom,1.5,1,2023,Juni
+1,e009,1,E,9,griyacom,1.5,1,2023,Februari
+1,e010,1,E,10,griyacom,1.5,0,2023,Desember
+1,e011,1,E,11,griyacom,1.5,1,2023,Juni
+1,e012,1,E,12,griyacom,1.5,1,2023,Februari
+1,e013,1,E,13,griyacom,1.5,0,2023,Juli
+1,e014,1,E,14,griyacom,1.5,1,2023,Desember
+1,e015,1,E,15,griyacom,1.5,1,2023,Januari
+1,e016,1,E,16,griyacom,1.5,1,2023,Mei
+1,e017,1,E,17,griyacom,1.5,1,2023,Februari
+1,e018,1,E,18,griyacom,1.5,0,2023,Maret
+1,e019,1,E,19,griyacom,1.5,1,2023,Mei
+1,e020,1,E,20,griyacom,1.5,1,2023,Maret
+1,e021,1,E,21,griyacom,1.5,1,2023,Februari
+1,e022,1,E,22,griyacom,1.5,1,2023,Juni
+1,e023,1,E,23,griyacom,1.5,1,2023,Mei
+1,e024,1,E,24,griyacom,1.5,1,2023,Februari
+1,e025,1,E,25,griyacom,1.5,0,2023,September
+1,e026,1,E,26,griyacom,1.5,1,2023,November
+1,e027,1,E,27,griyacom,1.5,1,2023,Juli
+1,e029,1,E,29,Meila,1.5,1,2023,November
+1,e030,1,E,30,tejo,1.5,1,2023,Januari
+1,f001,1,F,1,siti anggreani,1.5,0,2023,Desember
+1,f002,1,F,2,sabto priagung,1.5,1,2023,September
+1,f003,1,F,3,imam guntara,1.5,0,2023,Januari
+1,f004,1,F,4,yuli,1.5,1,2023,Agustus
+1,f005,1,F,5,agus setiawan,1.5,1,2023,Juli
+1,f006,1,F,6,Agus Rianto,1.5,1,2023,Agustus
+1,f007,1,F,7,teguh fernando,1.5,0,2023,Oktober
+1,f008,1,F,8,rihanto,1.5,1,2023,April
+1,f009,1,F,9,budi haryanto,1.5,0,2023,Januari
+1,f010,1,F,10,siswanto,1.5,1,2023,Juni
+1,f011,1,F,11,teguh,1.5,1,2023,April
+1,f012,1,F,12,Suparyanto,1.5,1,2023,April
+1,f013,1,F,13,yuli sepriadi,1.5,0,2023,April
+1,j001,1,J,1,cindy,1.5,1,2023,Januari
+1,j002,1,J,2,Hartati,1.5,1,2023,Januari
+1,j003,1,J,3,cindy,1.5,1,2023,Juli
+1,j004,1,J,4,dodi,1.5,0,2023,Juni
+1,j005,1,J,5,Dedi Mugi Lestar,1.5,0,2023,Juli
+1,j006,1,J,6,Nova Djodi,1.5,1,2023,Maret
+1,j007,1,J,7,Rani Rahayu,1.5,1,2023,Januari
+1,j008,1,J,8,Resity Laila Chitra,1.5,1,2023,Januari
+1,j009,1,J,9,M Asep Tardiana,1.5,1,2023,November
+1,j010,1,J,10,amin yansyah,1.5,1,2023,November
+1,j011,1,J,11,Fadila Milinia Hakim,1.5,0,2023,Mei
+1,j012,1,J,12,Tiara Ayu Ningtyas,1.5,1,2023,Desember
+1,j013,1,J,13,Meliyana Wahyuni,1.5,1,2023,September
+1,j014,1,J,14,m imam taufik,1.5,1,2023,April
+1,j015,1,J,15,wahyu eka savitri,1.5,1,2023,November
+1,j016,1,J,16,rachmad h,1.5,1,2023,Mei
+1,j017,1,J,17,M Riski Saputra,1.5,1,2023,Maret
+1,j018,1,J,18,Lingga anggriawan,1.5,1,2023,Juni
+1,j019,1,J,19,Erniwati,1.5,0,2023,Mei
+1,j020,1,J,20,mai sumarni,1.5,1,2023,Desember
+1,j021,1,J,21,dila febiyanti,1.5,1,2023,Juli
+1,j022,1,J,22,Adhi Juhaher,1.5,1,2023,Juni
+1,j023,1,J,23,Sefri Wahyu,1.5,1,2023,Juni
+1,j024,1,J,24,Riyan Mara Lovi Pradwa,1.5,1,2023,Februari
+1,k001,1,K,1,dwi mardiah,1.5,1,2023,Maret
+1,k002,1,K,2,Maryani,1.5,0,2023,Juni
+1,k003,1,K,3,Chandra Purnama,1.5,1,2023,Oktober
+1,k004,1,K,4,trio,1.5,0,2023,Juni
+1,k005,1,K,5,peby cahya suratman,1.5,0,2023,September
+1,k006,1,K,6,yudi,1.5,0,2023,September
+1,k007,1,K,7,asep,1.5,1,2023,September
+1,k008,1,K,8,Sandi Kurniawan,1.5,0,2023,Januari
+1,k009,1,K,9,ligga ,1.5,1,2023,November
+1,k010,1,K,10,Aufa Rahman ,1.5,1,2023,Juni
+1,k011,1,K,11,Arif Al haris ,1.5,0,2023,Desember
+1,k012,1,K,12,Ika Cahya Agustien ,1.5,0,2023,September
+1,k013,1,K,13,kiki aprilia,1.5,1,2023,Mei
+1,k014,1,K,14,Ariansyah,1.5,1,2023,Juli
+1,k015,1,K,15,Tia Catilia,1.5,1,2023,Januari
+1,k016,1,K,16,Ady Jonnatam,1.5,1,2023,Maret
+1,k017,1,K,17,Deden Angga Nata Jaya,1.5,1,2023,Januari
+1,k018,1,K,18,nurarini,1.5,1,2023,Juni
+1,k019,1,K,19,jatendra,1.5,0,2023,Januari
+1,k020,1,K,20,hendra kurniawan ,1.5,0,2023,Juli
+1,k021,1,K,21,deden nata jaya,1.5,0,2023,April
+1,k022,1,K,22,achmad azizurrachman,1.5,1,2023,Juni
+1,k023,1,K,23,Saiful Ar,1.5,1,2023,Oktober
+1,k024,1,K,24,Suwarsono,1.5,0,2023,Desember
+1,k025,1,K,25,Eko Purnomo,1.5,1,2023,Januari
+1,k026,1,K,26,Ikhsan Darmawan,1.5,0,2023,Mei
+1,k027,1,K,27,hakim,1.5,1,2023,Agustus
+1,k028,1,K,28,Wahyu Satriawan,1.5,0,2023,April
+1,k029,1,K,29,jefri catur,1.5,0,2023,April
+1,k030,1,K,30,Septiawai,1.5,1,2023,Oktober
+1,l001,1,L,1,Andi Afrizal,1.5,0,2023,April
+1,l002,1,L,2,marsas,1.5,1,2023,November
+1,l003,1,L,3,Frendi Guita,1.5,1,2023,Februari
+1,l004,1,L,4,Iis evar,1.5,1,2023,Oktober
+1,l005,1,L,5,rudi sulaiman,1.5,1,2023,September
+1,l006,1,L,6,dinda isnu delima,1.5,0,2023,Desember
+1,l007,1,L,7,ovi desmawati,1.5,0,2023,Juli
+1,l008,1,L,8,Nurul Ulfa,1.5,1,2023,Desember
+1,l009,1,L,9,abdillah fanan,1.5,1,2023,Juni
+1,l010,1,L,10,daisa,1.5,0,2023,Agustus
+1,l011,1,L,11,candra riastanto,1.5,1,2023,Mei
+1,l012,1,L,12,Sahrial,1.5,0,2023,November
+1,l013,1,L,13,Catur Apriyanto,1.5,1,2023,April
+1,l014,1,L,14,Risky Eko,1.5,1,2023,Oktober
+1,l015,1,L,15,randi saputra,1.5,1,2023,April
+1,l016,1,L,16,Septian Fernando,1.5,1,2023,Januari
+1,l017,1,L,17,davit,1.5,0,2023,Februari
+1,l018,1,L,18,fadlian,1.5,1,2023,Desember
+1,l019,1,L,19,Jimmy Islami,1.5,0,2023,Februari
+1,l020,1,L,20,Heriyanto,1.5,0,2023,Agustus
+1,l021,1,L,21,antiawati,1.5,1,2023,Agustus
+1,l022,1,L,22,Kurniawan Aprianto,1.5,0,2023,Juni
+1,l023,1,L,23,Hedra Simorangkir,1.5,0,2023,Juli
+1,l024,1,L,24,sahlan,1.5,0,2023,Februari
+1,l025,1,L,25,aldi selfio,1.5,1,2023,Juni
+1,l026,1,L,26,Herlina,1.5,1,2023,Juni
+1,l027,1,L,27,frilly latuconsina,1.5,1,2023,Maret
+1,l028,1,L,28,Maulana Hafis,1.5,1,2023,Mei
+1,l029,1,L,29,makomam,1.5,0,2023,Desember
+1,l030,1,L,30,Aditya Prasetio,1.5,1,2023,Desember
+1,l031,1,L,31,Erwan Guntoro,1.5,0,2023,April
+1,m001,1,M,1,Helda Yanti,1.5,1,2023,Juni
+1,m002,1,M,2,Andika Eka Purbaya,1.5,1,2023,Desember
+1,m003,1,M,3,hendri,1.5,1,2023,Desember
+1,m004,1,M,4,agus alfinudin,1.5,1,2023,Desember
+1,m005,1,M,5,Hesti Istiqomah,1.5,1,2023,Oktober
+1,m007,1,M,7,siger,1.5,1,2023,Februari
+1,m008,1,M,8,joyo nurhadi,1.5,1,2023,September
+1,m009,1,M,9,Aidil,1.5,1,2023,Januari
+1,m010,1,M,10,Handika Yudha,1.5,0,2023,Juli
+1,m011,1,M,11,agus oloan,1.5,1,2023,April
+1,m012,1,M,12,kantor,1.5,1,2023,Mei
+1,m013,1,M,13,kantor,1.5,1,2023,Maret
+1,m014,1,M,14,diah putri permatasari,1.5,1,2023,Oktober
+1,m015,1,M,15,Ramadona,1.5,1,2023,September
+1,m016,1,M,16,Rasudin,1.5,0,2023,Oktober
+1,m017,1,M,17,rumah contoh,1.5,1,2023,Februari
+1,n001,1,N,1,Subandi,1.5,1,2023,Februari
+1,n002,1,N,2,Yulianto,1.5,1,2023,Januari
+1,n003,1,N,3,Agung,1.5,1,2023,Oktober
+1,n004,1,N,4,Budi,1.5,1,2023,November
+1,n005,1,N,5,Citra,1.5,0,2023,Juli
+1,n006,1,N,6,Dedi,1.5,1,2023,April
+1,n007,1,N,7,Eko,1.5,1,2023,Desember
+1,n008,1,N,8,Fitri,1.5,1,2023,Agustus
+1,n009,1,N,9,Gita,1.5,0,2023,Mei
+1,n010,1,N,10,Hadi,1.5,1,2023,Desember
+1,n011,1,N,11,Indra,1.5,0,2023,Februari
+1,n012,1,N,12,Joko,1.5,1,2023,November
+1,n013,1,N,13,Kartika,1.5,1,2023,Desember
+1,n014,1,N,14,Lestari,1.5,1,2023,Oktober
+1,n015,1,N,15,Maya,1.5,1,2023,April
+1,n016,1,N,16,Nanda,1.5,1,2023,Agustus
+1,n017,1,N,17,Oki,1.5,1,2023,Februari
+1,o001,1,O,1,Putri,1.5,1,2023,November
+1,o002,1,O,2,Rian,1.5,0,2023,Januari
+1,o003,1,O,3,Sari,1.5,1,2023,Januari
+1,o004,1,O,4,Taufik,1.5,1,2023,Februari
+1,o005,1,O,5,Umi,1.5,0,2023,September
+1,o006,1,O,6,Vina,1.5,1,2023,Desember
+1,o007,1,O,7,Wawan,1.5,1,2023,Februari
+1,o008,1,O,8,Xena,1.5,1,2023,September
+1,o009,1,O,9,Yudi,1.5,1,2023,September
+1,o010,1,O,10,Zaki,1.5,1,2023,November
+1,o011,1,O,11,Anisa,1.5,1,2023,Juni
+1,o012,1,O,12,Bayu,1.5,1,2023,September
+1,o013,1,O,13,Chandra,1.5,1,2023,April
+1,o014,1,O,14,Dewi,1.5,1,2023,September
+1,o015,1,O,15,Endah,1.5,1,2023,Maret
+1,o016,1,O,16,Fajar,1.5,0,2023,Mei
+1,o017,1,O,17,Galih,1.5,1,2023,Oktober
+1,o018,1,O,18,Hendra,1.5,1,2023,Oktober
+1,o019,1,O,19,Intan,1.5,0,2023,Juli
+1,o020,1,O,20,Jihan,1.5,1,2023,November
+1,o021,1,O,21,Kiki,1.5,1,2023,April
+1,o022,1,O,22,Luki,1.5,1,2023,April
+1,o023,1,O,23,Mira,1.5,1,2023,Juni
